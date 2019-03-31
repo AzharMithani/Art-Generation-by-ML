@@ -4,6 +4,9 @@ Neural Style Transfer (NST) is one of the most fun techniques in deep learning. 
 
 You can download the pre-trained model from here https://www.kaggle.com/teksab/imagenetvggverydeep19mat/version/1
 
+## Outputs
+
+![picture alt](https://github.com/AzharMithani/Art-Generation-by-ML/blob/master/output/output1.png "Output 1") ![picture alt](https://github.com/AzharMithani/Art-Generation-by-ML/blob/master/output/output2.png "Output 2")
 
 
 
